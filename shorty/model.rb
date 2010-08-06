@@ -35,7 +35,7 @@ module Shorty
     end
     
     def self.path_size
-      8
+      6
     end
   end
 end

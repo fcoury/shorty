@@ -1,6 +1,5 @@
 require 'rubygems'
-require 'bundler'
-Bundler.setup
+require 'dm-migrations'
 
 namespace :db do
   desc "Loads our environment for various tasks that need it"
